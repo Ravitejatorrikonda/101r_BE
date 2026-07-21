@@ -44,6 +44,10 @@ public class Example6 {
 		return true;
 
 	}
+	
+	
+	
+//	Write a java program to find the ugly number and harshad number
 
 	public static void main(String[] args) {
 		Example6 obj = new Example6();
